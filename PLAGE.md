@@ -12,4 +12,4 @@ Liens vers d'autres lieux :
 - [Lien vers JARDIN](JARDIN.md)
 - [Autre TERRASE](TERRASE.md)
 
-Autrice : [IDRES Leila](?)
+Autrice : [IDRES Leila](https://github.com/leidres)
