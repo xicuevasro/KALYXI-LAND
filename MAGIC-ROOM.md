@@ -1,0 +1,12 @@
+# MAGIC ROOM 
+
+Un sanctuaire obscur où la magie imprègne chaque recoin. Des bougies scintillantes illuminent des étagères remplies de grimoires anciens et d'ingrédients mystérieux.
+
+![MAGIC ROOM]([https://cdn.clevacances.com/images/locations/35/HLOBRE0351000603/b9.jpg?1612545704](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/617734f0-d067-462d-bafe-1e2ba1854bec/df9mbay-5b1f9771-914e-41f7-ad3c-8db051580a91.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxNzczNGYwLWQwNjctNDYyZC1iYWZlLTFlMmJhMTg1NGJlY1wvZGY5bWJheS01YjFmOTc3MS05MTRlLTQxZjctYWQzYy04ZGIwNTE1ODBhOTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z-mjNtbtk6WALmDggITUlYEIXGAj7SZaN1ntvRkhfEs)https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/617734f0-d067-462d-bafe-1e2ba1854bec/df9mbay-5b1f9771-914e-41f7-ad3c-8db051580a91.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxNzczNGYwLWQwNjctNDYyZC1iYWZlLTFlMmJhMTg1NGJlY1wvZGY5bWJheS01YjFmOTc3MS05MTRlLTQxZjctYWQzYy04ZGIwNTE1ODBhOTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z-mjNtbtk6WALmDggITUlYEIXGAj7SZaN1ntvRkhfEs)
+
+Liens vers d'autres lieux :
+
+- [Lien vers SALLE D'ARRIVEE](SALLE-D-ARRIVEE.md)
+- [Lien vers ZOO](ZOO.md)
+
+Autrice : [CUEVAS RODRIGUEZ Ximena](https://github.com/xicuevasro)
