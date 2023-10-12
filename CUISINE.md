@@ -9,4 +9,4 @@ Liens vers d'autres lieux :
 - [Lien vers ECOLE](CUISINE.md)
 
 
-Autrice : [IDRES LEILA]()
+Autrice : [IDRES LEILA](https://github.com/leidres)
