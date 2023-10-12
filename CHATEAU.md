@@ -10,4 +10,4 @@ Liens vers d'autres lieux :
 - [Lien vers CUISINE](CUISINE.md)
 - [Lien vers ZOO](ZOO.md)
 
-Autrice : [IDRES Leila](?)
+Autrice : [CHERFIOUI KARIMA](https://github.com/karima2699)
