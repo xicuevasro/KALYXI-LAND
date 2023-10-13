@@ -7,7 +7,7 @@ Un sanctuaire obscur où la magie imprègne chaque recoin. Des bougies scintilla
 Voilà, tu as trouvé l'objet ! 
 Clique dessus pour trouver la salle secrete.
 
-![https://www.blogueur.fr/wp-content/uploads/2018/05/diamonds1.jpg](SALLE-SECRETE.md)
+[![diamant](https://www.blogueur.fr/wp-content/uploads/2018/05/diamonds1.jpg)](SALLE-SECRETE.md)
 
 Liens vers d'autres lieux :
 
