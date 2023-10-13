@@ -1,4 +1,5 @@
-# CHATEAU 
+## CHATEAU 
+
 Le château est le siège de la puissance du ROI. 
 Il s'agit d'un lieu enchanté et majestieu.
 
@@ -6,8 +7,8 @@ Il s'agit d'un lieu enchanté et majestieu.
 
 Liens vers d'autres lieux :
 
-- [Lien vers PLAGE ](PLAGE.md)
-- [Lien vers CUISINE](CUISINE.md)
-- [Lien vers ZOO](ZOO.md)
+- [PLAGE ](PLAGE.md)
+- [CUISINE](CUISINE.md)
+- [ZOO](ZOO.md)
 
 Autrice : [CHERFIOUI KARIMA](https://github.com/karima2699)
