@@ -1,4 +1,4 @@
-## CHATEAU 
+# CHATEAU 
 
 Le château est le siège de la puissance du ROI. 
 Il s'agit d'un lieu enchanté et majestieu.
