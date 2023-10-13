@@ -6,7 +6,7 @@ La maison de nombres animaux est un endroit où une grande variété d'animaux t
 
 Liens vers d'autres lieux :
 
-- [Lien vers CHATEAU](CHATEAU.md)
-- [Lien vers TERRASE](TERRASE.md)
+- [CHATEAU](CHATEAU.md)
+- [TERRASE](TERRASE.md)
 
 Autrice : [IDRES Leila](https://github.com/leidres)
