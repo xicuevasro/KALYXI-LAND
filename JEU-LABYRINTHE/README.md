@@ -1,2 +1,0 @@
-# KALYXI-LAND
-Jeu labyrinthe
