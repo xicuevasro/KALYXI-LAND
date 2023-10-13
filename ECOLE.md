@@ -1,4 +1,4 @@
-#ECOLE
+# ECOLE
 
 Nos plus beaux souvenirs étaient à l'école ,la ou on a tissé des liens avec  nos amis inoubliables mais aussi un lieu ou on a appris pas mal de choses. 
 
