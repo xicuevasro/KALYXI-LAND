@@ -8,8 +8,8 @@ C'est à ce moment-là que l'atmosphère devient véritablement magique, et les 
 
 Liens vers d'autres lieux :
 
-- [Lien vers CHATEAU](CHATEAU.md)
-- [Lien vers JARDIN](JARDIN.md)
-- [Autre TERRASE](TERRASE.md)
+- [CHATEAU](CHATEAU.md)
+- [JARDIN](JARDIN.md)
+- [TERRASE](TERRASE.md)
 
 Autrice : [IDRES Leila](https://github.com/leidres)
