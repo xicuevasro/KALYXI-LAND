@@ -6,7 +6,7 @@ lieu pour préparer de bons plats
 Liens vers d'autres lieux :
 
 - [Lien vers CHATEAU ](PLAGE.md)
-- [Lien vers ECOLE](CUISINE.md)
+- [Lien vers ECOLE](ECOLE.md)
 
 
 Autrice : [IDRES LEILA](https://github.com/leidres)
