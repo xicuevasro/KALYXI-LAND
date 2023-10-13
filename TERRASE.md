@@ -6,7 +6,7 @@ Vous entrez dans un oasis de calme où la detante et le partage familial reingne
 
 Liens vers d'autres lieux :
 
-- [Lien vers PLAGE](PLAGE.md)
-- [Lien vers ZOO](ZOO.md)
+- [PLAGE](PLAGE.md)
+- [ZOO](ZOO.md)
 
 Autrice : [CUEVAS RODRIGUEZ Ximena](https://github.com/xicuevasro)
