@@ -6,8 +6,8 @@ Nos plus beaux souvenirs étaient à l'école ,la ou on a tissé des liens avec 
 
 Liens vers d'autres lieux :
 
-- [Lien vers PARC ](PARC.md)
-- [Lien vers JARDIN](JARDIN.md)
-- [Lien vers CUISINE](CUISINE.md)
+- [PARC ](PARC.md)
+- [JARDIN](JARDIN.md)
+- [CUISINE](CUISINE.md)
 
 Autrice : [CHERFIOUI KARIMA](https://github.com/karima2699)
