@@ -9,7 +9,7 @@ Clique dessus pour trouver la salle secrete.
 
 <a href="https://img2.arabpng.com/20180324/ljq/kisspng-compass-rose-clip-art-compass-5ab61f87b009a8.0891371815218850637211.jpg"><img src =<https://github.com/xicuevasro/KALYXI-LAND/blob/main/jeu-hero-KALYXI-LAND/SALLE-SECRETE.md></a>
 
-
+- [<a href="https://img2.arabpng.com/20180324/ljq/kisspng-compass-rose-clip-art-compass-5ab61f87b009a8.0891371815218850637211.jpg"><img> </a>](SALLE-SECRETE.md)
 Liens vers d'autres lieux :
 
 - [SALLE D'ARRIVEE](SALLE-D-ARRIVEE.md)
