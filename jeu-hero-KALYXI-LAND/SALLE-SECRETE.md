@@ -1,5 +1,5 @@
 Super !!! 
-Tu as trouvé une passage secret pour un autre labyrinthe ;)
+Tu as trouvé un passage secret pour un autre labyrinthe ;)
 
 Voici le lien vers UCA
 
