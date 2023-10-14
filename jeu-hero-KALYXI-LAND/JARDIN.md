@@ -1,6 +1,6 @@
 # JARDIN
 
-C'est au jardin qu'on trouve les petites fleurs ,les arbres , et de la fraicheur !!!!!
+C'est au jardin qu'on trouve les petites fleurs, les arbres, et de la fraicheur !!!!!
 
 ![JARDIN](https://www.detentejardin.com/sites/art-de-vivre/files/dj_jardin_keukenhof_bulbes.jpg)
 
