@@ -1,5 +1,7 @@
-Voici le lien vers l'autre équipe 
+Super !!! 
+Tu as trouvé une passage secret pour un autre labyrinthe ;)
 
+Voici le lien vers UCA
 
 
 
